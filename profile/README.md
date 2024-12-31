@@ -1,3 +1,4 @@
+markdown
 # The Value of Time: A Precious Resource
 
 Time is one of the most valuable resources in life, yet it is often taken for granted. Unlike money or material possessions, time cannot be saved, paused, or reversed. It flows continuously, making every moment unique and irreplaceable. Understanding the importance of time can lead to a more meaningful and fulfilling life.
@@ -25,3 +26,6 @@ In today’s fast-paced world, it is easy to get caught up in the race for succe
 ## Conclusion
 
 Time is an invaluable gift that should be used wisely. By recognizing its importance and managing it effectively, we can lead more productive, joyful, and purposeful lives. As the famous proverb says, "Time and tide wait for no one." So, let us value time and make the most of every moment.
+
+For more articles like this, visit [News On Bharat](https://www.newsonbharat.com).
+```
